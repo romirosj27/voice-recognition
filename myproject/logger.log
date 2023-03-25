@@ -1,0 +1,497 @@
+2021-04-11 18:04:59,767 :: app :: INFO :: The request from Test-121221 has been received for registration
+2021-04-11 18:05:11,228 :: app :: INFO :: Test-121221 already exists
+2021-04-11 18:05:24,369 :: app :: INFO :: The request from Test-12122109 has been received for registration
+2021-04-11 18:05:35,357 :: app :: INFO :: Test-12122109 has been added successfully
+2021-04-11 18:08:01,564 :: app :: INFO :: The request from Test-12122109 has been received for verification
+2021-04-11 18:08:06,954 :: app :: INFO :: Test-12122109 has been verified
+2021-04-11 18:33:28,960 :: app (2) :: INFO :: The request from Test-12122109 has been received for verification
+2021-04-11 18:33:34,179 :: app (2) :: INFO :: Test-12122109 has been verified
+2021-04-11 19:48:48,170 :: app (2) :: INFO :: The error is :  400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-04-11 19:48:56,948 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:49:14,615 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:49:17,071 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:49:32,568 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:49:46,574 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:50:07,734 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Invalid \escape: line 1 column 29 (char 28)
+2021-04-11 19:55:13,249 :: app :: INFO :: The error is :  'username'
+2021-04-11 19:56:20,142 :: app :: INFO :: The error is :  'username'
+2021-04-11 19:56:50,762 :: app :: INFO :: The error is :  'username'
+2021-04-11 19:57:08,482 :: app :: INFO :: The request from TestR612 has been received for registration
+2021-04-11 19:57:13,505 :: app :: INFO :: Error loading audio files
+2021-04-11 19:58:30,272 :: app :: INFO :: The request from TestR612 has been received for registration
+2021-04-11 19:58:30,273 :: app :: INFO :: The error is :  a bytes-like object is required, not 'str'
+2021-04-11 19:59:11,143 :: app :: INFO :: The request from TestR612 has been received for registration
+2021-04-11 19:59:23,704 :: app :: INFO :: The error is :  a bytes-like object is required, not 'str'
+2021-04-11 20:01:37,744 :: app :: INFO :: The request from TestR612 has been received for registration
+2021-04-11 20:01:53,065 :: app :: INFO :: TestR612 has been added successfully
+2021-04-12 08:26:24,597 :: app31 :: INFO :: The request from TestR612 has been received for registration
+2021-04-12 08:26:24,924 :: app31 :: INFO :: The error is :  'voice1'
+2021-04-12 08:27:53,552 :: app31 :: INFO :: The request from TestR612 has been received for registration
+2021-04-12 08:27:53,553 :: app31 :: INFO :: The error is :  'voice1'
+2021-04-12 08:28:16,343 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:28:16,344 :: app31 :: INFO :: The error is :  'voice1'
+2021-04-12 08:29:34,329 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:30:11,748 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:32:42,719 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:32:44,490 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:32:46,155 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:33:06,716 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:36:05,765 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:36:07,759 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:36:09,608 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:36:33,677 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:37:26,637 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:38:39,193 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:38:59,926 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:47:22,863 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:47:41,555 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:48:14,402 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:48:45,964 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:52:22,660 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:52:45,671 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:53:50,473 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:54:06,232 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:54:24,530 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:54:45,613 :: app31 :: INFO :: delete the training_set_addtion file
+2021-04-12 08:56:23,759 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:56:30,772 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:56:37,692 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:56:41,843 :: app31 :: INFO :: delete the training_set_addtion file
+2021-04-12 08:57:30,824 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:57:32,007 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:57:33,339 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 08:57:43,972 :: app31 :: INFO :: TestR62112 has been added successfully
+2021-04-12 09:11:10,739 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 09:11:14,314 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 09:11:15,956 :: app31 :: INFO :: The request from TestR62112 has been received for registration
+2021-04-12 09:11:27,172 :: app31 :: INFO :: TestR62112 already exists
+2021-04-12 09:11:33,380 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:11:34,952 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:11:36,154 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:11:37,622 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:12:35,962 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:12:37,096 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:12:38,027 :: app31 :: INFO :: The request from TestR621121 has been received for registration
+2021-04-12 09:12:49,152 :: app31 :: INFO :: TestR621121 has been added successfully
+2021-04-12 09:12:55,625 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:14:37,173 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:14:38,180 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:14:39,084 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:15:31,839 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:15:32,862 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:15:33,544 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:15:44,925 :: app31 :: INFO :: TestR621122 already exists
+2021-04-12 09:16:13,689 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:16:14,542 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:16:15,342 :: app31 :: INFO :: The request from TestR621122 has been received for registration
+2021-04-12 09:16:25,097 :: app31 :: INFO :: TestR621122 already exists
+2021-04-12 09:16:33,962 :: app31 :: INFO :: The request from TestR6211212 has been received for registration
+2021-04-12 09:16:34,990 :: app31 :: INFO :: The request from TestR6211212 has been received for registration
+2021-04-12 09:16:35,803 :: app31 :: INFO :: The request from TestR6211212 has been received for registration
+2021-04-12 09:16:46,408 :: app31 :: INFO :: TestR6211212 has been added successfully
+2021-04-12 09:22:41,501 :: app31 :: INFO :: The request from TestR6211212 has been received for verification
+2021-04-12 09:22:46,600 :: app31 :: INFO :: TestR6211212 has been verified
+2021-04-12 10:24:51,901 :: test :: INFO :: The error is :  400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2021-04-12 10:25:02,239 :: test :: INFO :: The request from TestRR12 has been received for registration
+2021-04-12 10:25:04,689 :: test :: INFO :: The request from TestRR12 has been received for registration
+2021-04-12 10:25:06,154 :: test :: INFO :: The request from TestRR12 has been received for registration
+2021-04-12 10:25:24,044 :: test :: INFO :: The request from TestRR12a has been received for registration
+2021-04-12 10:25:24,932 :: test :: INFO :: The request from TestRR12a has been received for registration
+2021-04-12 10:25:25,757 :: test :: INFO :: The request from TestRR12a has been received for registration
+2021-04-12 10:26:52,597 :: app31 :: INFO :: The request from TestRR13 has been received for registration
+2021-04-12 10:26:53,649 :: app31 :: INFO :: The request from TestRR13 has been received for registration
+2021-04-12 10:26:54,444 :: app31 :: INFO :: The request from TestRR13 has been received for registration
+2021-04-12 10:27:04,955 :: app31 :: INFO :: TestRR13 has been added successfully
+2021-04-12 10:27:38,945 :: test :: INFO :: The request from TestRR13a has been received for registration
+2021-04-12 10:27:40,041 :: test :: INFO :: The request from TestRR13a has been received for registration
+2021-04-12 10:27:41,166 :: test :: INFO :: The request from TestRR13a has been received for registration
+2021-04-12 10:30:40,807 :: test :: INFO :: The request from TestRR14 has been received for registration
+2021-04-12 10:30:41,778 :: test :: INFO :: The request from TestRR14 has been received for registration
+2021-04-12 10:30:42,476 :: test :: INFO :: The request from TestRR14 has been received for registration
+2021-04-12 10:30:54,970 :: test :: INFO :: The error is :  [WinError 145] The directory is not empty: 'training_set'
+2021-04-12 10:31:56,079 :: test :: INFO :: The request from TestRR123 has been received for registration
+2021-04-12 10:31:57,428 :: test :: INFO :: The request from TestRR123 has been received for registration
+2021-04-12 10:31:58,660 :: test :: INFO :: The request from TestRR123 has been received for registration
+2021-04-12 10:32:12,267 :: test :: INFO :: TestRR123 has been added successfully
+2021-04-12 10:33:22,993 :: test :: INFO :: The request from TestRR123 has been received for verification
+2021-04-12 10:33:24,204 :: test :: INFO :: The error is :  [Errno 2] No such file or directory: './trained_models/Tets412.gmm'
+2021-04-12 10:34:46,097 :: test :: INFO :: The request from TestRR123 has been received for verification
+2021-04-12 10:34:50,577 :: test :: INFO :: TestRR123 has been verified
+2021-04-12 10:38:21,488 :: test :: INFO :: The error is :  'NoneType' object is not subscriptable
+2021-04-12 10:43:07,825 :: test :: INFO :: The request from TestRR123 has been received for verification
+2021-04-12 10:43:13,265 :: test :: INFO :: TestRR123 has been verified
+2021-04-12 10:54:14,333 :: app :: INFO :: The request from TestRR123b has been received for verification
+2021-04-12 10:54:18,866 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-12 10:59:10,529 :: app :: INFO :: The request from TestRR123c has been received for registration
+2021-04-12 10:59:11,873 :: app :: INFO :: The request from TestRR123c has been received for registration
+2021-04-12 10:59:13,126 :: app :: INFO :: The request from TestRR123c has been received for registration
+2021-04-12 10:59:23,327 :: app :: INFO :: TestRR123c has been added successfully
+2021-04-12 10:59:34,272 :: app :: INFO :: The request from TestRR123c has been received for verification
+2021-04-12 10:59:39,186 :: app :: INFO :: TestRR123c has been verified
+2021-04-12 11:04:56,108 :: app :: INFO :: The request from TestRR123d has been received for registration
+2021-04-12 11:05:12,542 :: app :: INFO :: The request from TestRR123d has been received for registration
+2021-04-12 11:05:15,383 :: app :: INFO :: The request from TestRR123d has been received for registration
+2021-04-12 11:05:28,572 :: app :: INFO :: TestRR123d has been added successfully
+2021-04-12 11:57:23,306 :: app :: INFO :: The request from TestRR123e has been received for registration
+2021-04-12 11:57:30,135 :: app :: INFO :: The request from TestRR123e has been received for registration
+2021-04-12 11:57:36,449 :: app :: INFO :: The request from TestRR123e has been received for registration
+2021-04-12 11:57:48,739 :: app :: INFO :: TestRR123e has been added successfully
+2021-04-12 12:14:10,617 :: app :: INFO :: The request from TestRR123f has been received for registration
+2021-04-12 12:15:26,818 :: app :: INFO :: The request from TestRR123f has been received for registration
+2021-04-12 12:16:35,316 :: app :: INFO :: The request from TestRR123f has been received for registration
+2021-04-12 12:16:39,712 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-12 12:17:33,352 :: app -original :: INFO :: The error is :  'NoneType' object is not subscriptable
+2021-04-12 12:18:48,971 :: app -original :: INFO :: The error is :  'NoneType' object is not subscriptable
+2021-04-12 12:20:00,425 :: app (2) :: INFO :: The request from TestRR123a has been received for registration
+2021-04-12 12:20:10,458 :: app (2) :: INFO :: TestRR123a already exists
+2021-04-12 12:20:27,469 :: app (2) :: INFO :: The request from TestRa1 has been received for registration
+2021-04-12 12:20:32,494 :: app (2) :: INFO :: Incorrect phrase, please try again
+2021-04-12 12:26:20,197 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:26:47,950 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:27:40,705 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:30:14,690 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-12 12:33:12,701 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:33:22,606 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:33:36,961 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:34:39,739 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-12 12:53:03,433 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:53:36,665 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:54:15,512 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:57:38,888 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:57:40,085 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:58:03,138 :: app :: INFO :: The request from TestRR123r has been received for registration
+2021-04-12 12:58:08,030 :: app :: INFO :: Incorrect phrase, please try again
+2021-04-12 16:59:24,735 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 16:59:51,292 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 17:00:38,992 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 17:00:44,175 :: app :: INFO :: Incorrect phrase, please try again
+2021-04-12 17:00:55,051 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 17:00:57,196 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 17:00:59,198 :: app :: INFO :: The request from TestRR1812a has been received for registration
+2021-04-12 17:01:10,754 :: app :: INFO :: TestRR1812a has been added successfully
+2021-04-12 17:01:28,111 :: app :: INFO :: The request from TestRR1812a has been received for verification
+2021-04-12 17:01:33,426 :: app :: INFO :: TestRR1812a has been verified
+2021-04-12 17:01:50,124 :: app :: INFO :: The request from TestRR1812a has been received for verification
+2021-04-12 17:01:55,272 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-13 10:53:55,649 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-13 10:54:00,114 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-13 10:54:01,651 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-13 10:54:11,516 :: app :: INFO :: Test56121 has been added successfully
+2021-04-14 10:44:57,854 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-14 10:45:10,967 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-14 10:45:12,169 :: app :: INFO :: The request from Test56121 has been received for registration
+2021-04-14 10:45:21,988 :: app :: INFO :: Test56121 already exists
+2021-04-14 10:45:27,754 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:45:28,640 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:45:29,339 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:45:40,646 :: app :: INFO :: Test561213 has been added successfully
+2021-04-14 10:45:50,331 :: app-original :: INFO :: The request from test56128 has been received for registration
+2021-04-14 10:45:50,331 :: app-original :: INFO :: The error is :  [WinError 3] The system cannot find the path specified: 'training_set'
+2021-04-14 10:46:59,496 :: app-original :: INFO :: The request from test56128 has been received for registration
+2021-04-14 10:47:10,197 :: app-original :: INFO :: test56128 has been added successfully
+2021-04-14 10:48:23,336 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:49:27,410 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:49:57,231 :: app :: INFO :: The request from Test561213 has been received for registration
+2021-04-14 10:50:07,438 :: app :: INFO :: Test561213 already exists
+2021-04-14 10:51:20,378 :: app :: INFO :: The request from Test561213a has been received for registration
+2021-04-14 10:51:54,973 :: app :: INFO :: The request from Test561213a has been received for registration
+2021-04-14 10:52:19,770 :: app :: INFO :: The request from Test561213a has been received for registration
+2021-04-14 10:52:31,064 :: app :: INFO :: Test561213a has been added successfully
+2021-04-14 10:54:05,688 :: app :: INFO :: The request from Test561213b has been received for registration
+2021-04-14 10:54:27,434 :: app :: INFO :: The request from Test561213b has been received for registration
+2021-04-14 10:55:19,098 :: app :: INFO :: The request from Test561213b has been received for registration
+2021-04-14 10:55:24,108 :: app :: INFO :: Incorrect phrase, please try again
+2021-04-14 10:56:15,351 :: app :: INFO :: The request from Test561213c has been received for registration
+2021-04-14 10:56:20,088 :: app :: INFO :: The request from Test561213c has been received for registration
+2021-04-14 10:57:15,167 :: app :: INFO :: The request from Test561213c has been received for registration
+2021-04-14 10:57:19,999 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 10:59:13,311 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 10:59:14,747 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: './trained_models/Tets412.gmm'
+2021-04-14 11:00:16,047 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:00:17,483 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: './trained_models/Tets412.gmm'
+2021-04-14 11:00:47,889 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:00:49,362 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: './trained_models/Tets412.gmm'
+2021-04-14 11:01:29,209 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:01:30,629 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: './trained_models/Tets412.gmm'
+2021-04-14 11:03:36,223 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:03:41,636 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:05:15,713 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:05:20,801 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:06:28,015 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:06:33,486 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:06:57,708 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:07:03,082 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:07:18,669 :: app-original :: INFO :: The request from test56129a has been received for registration
+2021-04-14 11:07:18,670 :: app-original :: INFO :: The error is :  [WinError 3] The system cannot find the path specified: 'training_set'
+2021-04-14 11:08:15,386 :: app-original :: INFO :: The request from test56129a has been received for registration
+2021-04-14 11:08:15,386 :: app-original :: INFO :: The error is :  [WinError 3] The system cannot find the path specified: 'training_set'
+2021-04-14 11:09:41,125 :: app-original :: INFO :: The request from test56129a has been received for registration
+2021-04-14 11:09:52,797 :: app-original :: INFO :: test56129a has been added successfully
+2021-04-14 11:10:09,461 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:10:11,359 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: 'testing_set/sample.wav'
+2021-04-14 11:12:08,069 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:12:09,941 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: 'testing_set/sample.wav'
+2021-04-14 11:14:17,306 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:14:22,740 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:15:39,478 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:15:44,809 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:15:52,266 :: app-original :: INFO :: The request from test56129b has been received for registration
+2021-04-14 11:16:03,791 :: app-original :: INFO :: test56129b has been added successfully
+2021-04-14 11:16:26,716 :: app :: INFO :: The request from Test561213d has been received for registration
+2021-04-14 11:16:27,714 :: app :: INFO :: The request from Test561213d has been received for registration
+2021-04-14 11:16:28,603 :: app :: INFO :: The request from Test561213d has been received for registration
+2021-04-14 11:16:39,711 :: app :: INFO :: Test561213d has been added successfully
+2021-04-14 11:17:06,727 :: app-original :: INFO :: The request from test56129b has been received for verification
+2021-04-14 11:17:12,139 :: app-original :: INFO :: test56129b has been verified
+2021-04-14 11:19:40,651 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:19:45,962 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:20:18,945 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:20:24,287 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:25:59,170 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:26:04,781 :: app :: INFO :: Test561213a has been verified
+2021-04-14 11:26:57,950 :: app :: INFO :: The request from Test561213a has been received for verification
+2021-04-14 11:27:03,524 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 11:28:33,110 :: app :: INFO :: The request from Test561213p has been received for verification
+2021-04-14 11:28:35,113 :: app :: INFO :: Test561213p Doesn't Exist. Please verify with correct username
+2021-04-14 11:30:40,692 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:30:42,064 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:30:43,003 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:30:43,021 :: app :: INFO :: delete the training_set_addtion file
+2021-04-14 11:30:43,022 :: app :: INFO :: The error is :  local variable 'audio' referenced before assignment
+2021-04-14 11:32:40,670 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:32:47,377 :: app :: INFO :: The request from Test561213o has been received for registration
+2021-04-14 11:32:52,866 :: app :: INFO :: The request from Test561213i has been received for registration
+2021-04-14 11:33:04,980 :: app :: INFO :: Test561213i has been added successfully
+2021-04-14 11:33:39,787 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:33:46,380 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:33:47,101 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:33:48,876 :: app :: INFO :: delete the training_set_addtion file
+2021-04-14 11:33:49,188 :: app :: INFO :: The error is :  Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2021-04-14 11:34:33,913 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:34:34,692 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:34:35,282 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:34:35,286 :: app :: INFO :: delete the training_set_addtion file
+2021-04-14 11:34:35,286 :: app :: INFO :: The error is :  local variable 'audio' referenced before assignment
+2021-04-14 11:36:09,672 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:36:30,203 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:36:49,734 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:37:29,431 :: app :: INFO :: delete the training_set_addtion file
+2021-04-14 11:37:33,047 :: app :: INFO :: The error is :  Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2021-04-14 11:38:50,974 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:52,549 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:53,246 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:53,911 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:54,541 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:55,218 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:38:55,890 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 11:39:01,559 :: app :: INFO :: The error is :  400 Bad Request: Failed to decode JSON object: Expecting ',' delimiter: line 1 column 40 (char 39)
+2021-04-14 11:39:41,901 :: app :: INFO :: The request from Test561213p has been received for registration
+2021-04-14 14:04:12,718 :: app :: INFO :: The request from Test56112a has been received for registration
+2021-04-14 14:04:35,910 :: app :: INFO :: The request from Test56112a has been received for registration
+2021-04-14 14:05:00,991 :: app :: INFO :: The request from Test56112a has been received for registration
+2021-04-14 14:05:13,420 :: app :: INFO :: Test56112a has been added successfully
+2021-04-14 14:06:23,682 :: app :: INFO :: The request from Test56112a has been received for verification
+2021-04-14 14:06:28,965 :: app :: INFO :: Test56112a has been verified
+2021-04-14 14:43:08,229 :: app :: INFO :: The request from Test56112b has been received for registration
+2021-04-14 14:43:41,179 :: app :: INFO :: The request from Test56112b has been received for registration
+2021-04-14 14:44:07,677 :: app :: INFO :: The request from Test56112b has been received for registration
+2021-04-14 14:44:21,687 :: app :: INFO :: Test56112b has been added successfully
+2021-04-14 14:44:44,983 :: app :: INFO :: The request from Test56112b has been received for verification
+2021-04-14 14:44:50,249 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 14:45:19,972 :: app :: INFO :: The request from Test56112b has been received for verification
+2021-04-14 14:45:26,186 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 14:46:56,059 :: app :: INFO :: The request from Test56112b has been received for verification
+2021-04-14 14:47:01,838 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 14:48:37,538 :: app :: INFO :: The request from Test56112b has been received for verification
+2021-04-14 14:48:43,563 :: app :: INFO :: Test56112b has been verified
+2021-04-14 14:59:10,847 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 14:59:36,765 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 14:59:59,511 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 15:00:03,588 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 15:00:59,168 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 15:00:59,922 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 15:01:00,684 :: app :: INFO :: The request from Test56112c has been received for registration
+2021-04-14 15:01:10,543 :: app :: INFO :: Test56112c has been added successfully
+2021-04-14 15:02:07,681 :: app :: INFO :: The request from Test56112c has been received for verification
+2021-04-14 15:02:13,074 :: app :: INFO :: Test56112c has been verified
+2021-04-14 15:02:13,075 :: app :: INFO :: The error is :  can only concatenate str (not "numpy.float64") to str
+2021-04-14 15:04:13,037 :: app :: INFO :: The request from Test56112c has been received for verification
+2021-04-14 15:04:18,207 :: app :: INFO :: Test56112c has been verified
+2021-04-14 15:45:51,603 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 15:45:53,179 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 15:45:54,340 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 15:46:07,124 :: app :: INFO :: Test56112e has been added successfully
+2021-04-14 15:46:44,302 :: app :: INFO :: The request from Test56112e has been received for verification
+2021-04-14 15:46:49,304 :: app :: INFO :: Test56112e has been verified
+2021-04-14 15:47:19,217 :: app :: INFO :: The request from Test56112e has been received for verification
+2021-04-14 15:47:25,081 :: app :: INFO :: The user's voice varies or invalid phrases, Please try again with correct user's voice and phrases
+2021-04-14 16:27:03,844 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:05,196 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:06,096 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:06,516 :: app :: INFO :: The error is :  'language'
+2021-04-14 16:27:55,064 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:55,991 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:56,814 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:27:57,224 :: app :: INFO :: The error is :  'language'
+2021-04-14 16:28:33,971 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:28:34,910 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:28:35,718 :: app :: INFO :: The request from Test56112e has been received for registration
+2021-04-14 16:28:49,834 :: app :: INFO :: Test56112e already exists
+2021-04-14 16:28:58,068 :: app :: INFO :: The request from Test56112f has been received for registration
+2021-04-14 16:28:59,654 :: app :: INFO :: The request from Test56112f has been received for registration
+2021-04-14 16:29:00,694 :: app :: INFO :: The request from Test56112f has been received for registration
+2021-04-14 16:29:13,775 :: app :: INFO :: Test56112f has been added successfully
+2021-04-15 08:16:26,602 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:16:28,556 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:16:30,316 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:16:31,017 :: app :: INFO :: The error is :  recognition connection failed: [Errno 11001] getaddrinfo failed
+2021-04-15 08:19:18,525 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:19,348 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:20,245 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:22,242 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:41,735 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:42,691 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:19:43,564 :: app :: INFO :: The request from Test56112g has been received for registration
+2021-04-15 08:20:02,660 :: app :: INFO :: Test56112g has been added successfully
+2021-04-15 08:21:04,114 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:21:05,247 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:21:06,262 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:21:06,540 :: app :: INFO :: The error is :  recognition connection failed: [Errno 11001] getaddrinfo failed
+2021-04-15 08:21:58,530 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:21:59,769 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:22:00,760 :: app :: INFO :: The request from Test56112l has been received for registration
+2021-04-15 08:22:01,100 :: app :: INFO :: The error is :  recognition connection failed: [Errno 11001] getaddrinfo failed
+2021-04-15 08:24:31,592 :: app :: INFO :: The error is :  2003: Can't connect to MySQL server on 'bb-clearcrunch.ckpmpj6fhael.us-east-2.rds.amazonaws.com:3306' (11001 getaddrinfo failed)
+2021-04-15 08:25:31,531 :: app :: INFO :: The request from Test56112g has been received for verification
+2021-04-15 08:25:37,933 :: app :: INFO :: Test56112g has been verified
+2021-04-15 15:19:14,225 :: app :: INFO :: The request from Test56112w has been received for registration
+2021-04-15 15:19:15,419 :: app :: INFO :: The request from Test56112w has been received for registration
+2021-04-15 15:19:16,474 :: app :: INFO :: The request from Test56112w has been received for registration
+2021-04-15 15:19:31,132 :: app :: INFO :: Test56112w has been added successfully
+2021-04-15 15:19:41,560 :: app :: INFO :: The request from Test56112w has been received for verification
+2021-04-15 15:19:48,747 :: app :: INFO :: Test56112w has been verified
+2021-04-15 15:19:58,411 :: app :: INFO :: The request from Test56112w has been received for verification
+2021-04-15 15:20:05,048 :: app :: INFO :: Test56112w has been verified
+<<<<<<< HEAD
+2021-04-21 14:39:11,486 :: app :: INFO :: The request from Romiro-172 has been received for registration
+2021-04-21 14:39:16,095 :: app :: INFO :: The request from Romiro-173 has been received for registration
+2021-04-21 14:39:20,714 :: app :: INFO :: The request from Romiro-172 has been received for registration
+2021-04-21 14:39:22,404 :: app :: INFO :: The request from Romiro-173 has been received for registration
+2021-04-21 14:39:29,726 :: app :: INFO :: The request from Romiro-173 has been received for registration
+2021-04-21 14:39:35,095 :: app :: INFO :: The request from Romiro-173 has been received for registration
+2021-04-21 14:39:51,284 :: app :: INFO :: Romiro-173 already exists
+2021-04-21 14:39:57,294 :: app :: INFO :: The request from Romiro-136 has been received for verification
+2021-04-21 14:40:00,780 :: app :: INFO :: Romiro-136 has been verified
+=======
+>>>>>>> fe03359cffa8537c0b876e4d76ac6865669773a3
+2022-03-05 07:24:01,028 :: app :: INFO :: The error is :  'NoneType' object is not subscriptable
+2023-03-24 22:06:48,322 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 22:07:21,440 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 22:07:25,561 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 22:07:28,637 :: app :: INFO :: The error is :  MySQL Connection not available.
+2023-03-24 23:19:27,229 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:19:32,140 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:19:37,138 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:19:37,298 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:25:11,972 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:25:11,974 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:25:16,367 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:25:16,368 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:28:49,415 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:28:53,907 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:28:57,857 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:28:57,858 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:30:01,477 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:30:01,478 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:34:37,923 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:34:42,214 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:34:45,994 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:34:45,995 :: app :: INFO :: The error is :  [Errno 13] Permission denied: '.\\Romiro-200-sample0.wav'
+2023-03-24 23:37:28,080 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:37:36,170 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:37:40,201 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:38:30,217 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:41:02,485 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:41:06,645 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:41:10,550 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:41:49,724 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:42:01,214 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:44:51,942 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:44:56,811 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:45:00,670 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:45:26,671 :: app :: INFO :: The error is :  [Errno 13] Permission denied: './Romiro-200-sample0.wav'
+2023-03-24 23:46:23,991 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:46:27,676 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:46:31,488 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:51:27,559 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:51:31,564 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:51:35,253 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:51:35,264 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: './Romiro-200-sample0.wav'
+2023-03-24 23:53:52,994 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:53:56,754 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:54:00,985 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:56:43,197 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:56:47,582 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:56:51,389 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:56:51,403 :: app :: INFO :: The error is :  [Errno 2] No such file or directory: 'Romiro-200-sample0.wav'
+2023-03-24 23:58:18,902 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:58:22,724 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:58:26,480 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-24 23:58:30,933 :: app :: INFO :: The error is :  MySQL Connection not available.
+2023-03-25 00:09:51,722 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:09:55,907 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:09:59,653 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:10:03,173 :: app :: INFO :: The error is :  module 'sqlalchemy.connectors.pyodbc' has no attribute 'connect'
+2023-03-25 00:11:44,400 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:11:48,390 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:11:52,254 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:11:57,090 :: app :: INFO :: The error is :  module 'sqlalchemy.connectors.pyodbc' has no attribute 'connect'
+2023-03-25 00:13:56,044 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:13:59,958 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:14:03,693 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:14:07,084 :: app :: INFO :: The error is :  module 'sqlalchemy.connectors.pyodbc' has no attribute 'connect'
+2023-03-25 00:16:48,276 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:16:52,458 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:16:56,147 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:16:59,590 :: app :: INFO :: The error is :  module 'sqlalchemy.connectors.pyodbc' has no attribute 'connect'
+2023-03-25 00:19:09,793 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:19:13,569 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:19:17,321 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:19:20,590 :: app :: INFO :: The error is :  module 'sqlalchemy.connectors.pyodbc' has no attribute 'connect'
+2023-03-25 00:23:22,903 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:23:26,666 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:23:30,455 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:26:29,162 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:26:33,211 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:26:37,413 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:26:41,667 :: app :: INFO :: Romiro-200 already exists
+2023-03-25 00:31:24,004 :: app :: INFO :: The request from Romiro-200 has been received for registration
+2023-03-25 00:31:30,071 :: app :: INFO :: The request from Romiro-201 has been received for registration
+2023-03-25 00:31:36,092 :: app :: INFO :: The request from Romiro-202 has been received for registration
+2023-03-25 00:31:45,858 :: app :: INFO :: The request from Romiro-202 has been received for registration
+2023-03-25 00:32:24,743 :: app :: INFO :: The request from Romiro-202 has been received for registration
+2023-03-25 00:32:30,807 :: app :: INFO :: The request from Romiro-203 has been received for registration
+2023-03-25 00:33:47,317 :: app :: INFO :: The request from Romiro-203 has been received for registration
+2023-03-25 00:33:53,483 :: app :: INFO :: The request from Romiro-204 has been received for registration
+2023-03-25 00:33:59,332 :: app :: INFO :: The request from Romiro-205 has been received for registration
+2023-03-25 00:34:41,619 :: app :: INFO :: The request from Romiro-205 has been received for registration
+2023-03-25 00:34:48,009 :: app :: INFO :: The request from Romiro-206 has been received for registration
+2023-03-25 00:34:53,186 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:38:29,159 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:38:33,052 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:38:36,863 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:40:47,107 :: app :: INFO :: Romiro-207 already exists
+2023-03-25 00:43:43,376 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:43:47,223 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:43:50,933 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:43:55,279 :: app :: INFO :: The error is :  can only concatenate str (not "ProgrammingError") to str
+2023-03-25 00:45:04,376 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:45:08,259 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:45:12,066 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:47:13,814 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:47:18,022 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:47:22,963 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:51:11,507 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:51:15,435 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:51:19,156 :: app :: INFO :: The request from Romiro-207 has been received for registration
+2023-03-25 00:51:23,434 :: app :: INFO :: Romiro-207 has been added successfully
